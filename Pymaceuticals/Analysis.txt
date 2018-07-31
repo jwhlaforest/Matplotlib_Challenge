@@ -1,0 +1,9 @@
+From the graphs, we can determine that the Capomulin and Ramicane drugs were the most effective in reducing tumor size.
+All the other drugs did not drastically reduce the size of the tumor volume.
+
+In terms of mousse survival, Propriva was the worst where only around 25% of the mice survived.
+This is much worse than the placebo group.
+Again, the most successfull drugs are Capomulin and Ramicane.
+
+The drugs that slowed tumor site growth were also Capomulin and Ramicane.
+It should also be noted that all of the drugs did reduce the number of new metastatic sites.
